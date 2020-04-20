@@ -8,9 +8,12 @@ clone form golang src sdk 1.13.7
 -   修改http2 header头排序
 
 ## 使用方法
+
+
 ```shell script
 
-go get github.com/zhaojunlike/go-http-utls
+go get github.com/godtoy/gt-common
+go get github.com/godtoy/gt-axios
 
 ```
 
@@ -44,6 +47,6 @@ func TestAxios(t *testing.T) {
 
 
 ## feature
--   request frame like tor browser
--   custom tls fingerprint
--   custom transport
+-   [x] request frame like tor browser
+-   [x] custom tls fingerprint
+-   [x] custom transport
