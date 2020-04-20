@@ -5,7 +5,7 @@ package axios
 import (
 	"fmt"
 	"testing"
-	"zhaojunlike/gt-axios/chttp"
+    "zhaojunlike/common/chttp"
 	tls "zhaojunlike/gt-axios/crypto/tls"
 )
 

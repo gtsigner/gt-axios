@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"strings"
 	"time"
-	"zhaojunlike/gt-axios/chttp"
+    "zhaojunlike/common/chttp"
 	"zhaojunlike/gt-axios/net/http"
 )
 
