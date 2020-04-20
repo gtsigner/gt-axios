@@ -3,7 +3,7 @@ package finger
 import (
 	"fmt"
 	"testing"
-	"zhaojunlike/gt-axios/chttp"
+    "zhaojunlike/common/chttp"
 	"zhaojunlike/gt-axios/crypto/tls"
 )
 
